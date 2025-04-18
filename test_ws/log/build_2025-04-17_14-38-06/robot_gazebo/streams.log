@@ -1,0 +1,45 @@
+[0.009s] Invoking command in '/home/mo/test_ws/build/robot_gazebo': /usr/bin/cmake /home/mo/test_ws/src/robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/robot_gazebo
+[0.082s] -- The C compiler identification is GNU 11.4.0
+[0.141s] -- The CXX compiler identification is GNU 11.4.0
+[0.148s] -- Detecting C compiler ABI info
+[0.205s] -- Detecting C compiler ABI info - done
+[0.210s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.210s] -- Detecting C compile features
+[0.211s] -- Detecting C compile features - done
+[0.213s] -- Detecting CXX compiler ABI info
+[0.276s] -- Detecting CXX compiler ABI info - done
+[0.280s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.280s] -- Detecting CXX compile features
+[0.281s] -- Detecting CXX compile features - done
+[0.285s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.417s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.541s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.577s] Error parsing '/home/mo/test_ws/src/robot_gazebo/package.xml':
+[0.606s] Traceback (most recent call last):
+[0.606s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[0.606s]     main()
+[0.606s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[0.606s]     raise e
+[0.606s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[0.606s]     package = parse_package_string(
+[0.606s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 788, in parse_package_string
+[0.606s]     pkg.validate(warnings=warnings)
+[0.606s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 330, in validate
+[0.607s]     raise InvalidPackage('\n'.join(errors), self.filename)
+[0.607s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/mo/test_ws/src/robot_gazebo/package.xml':
+[0.607s] Invalid email "mostafaelzeny27@gmailcom" for person "mo"
+[0.615s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.615s]   execute_process(/usr/bin/python3
+[0.615s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.615s]   /home/mo/test_ws/src/robot_gazebo/package.xml
+[0.615s]   /home/mo/test_ws/build/robot_gazebo/ament_cmake_core/package.cmake)
+[0.615s]   returned error code 1
+[0.615s] Call Stack (most recent call first):
+[0.615s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.615s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.615s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.615s] 
+[0.615s] [0m
+[0.615s] -- Configuring incomplete, errors occurred!
+[0.615s] See also "/home/mo/test_ws/build/robot_gazebo/CMakeFiles/CMakeOutput.log".
+[0.618s] Invoked command in '/home/mo/test_ws/build/robot_gazebo' returned '1': /usr/bin/cmake /home/mo/test_ws/src/robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/robot_gazebo

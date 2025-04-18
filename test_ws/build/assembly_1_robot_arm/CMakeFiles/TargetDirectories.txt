@@ -1,0 +1,9 @@
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/uninstall.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/assembly_1_robot_arm_uninstall.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/test.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/edit_cache.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/rebuild_cache.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/list_install_components.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/install.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/install/local.dir
+/home/mo/test_ws/build/assembly_1_robot_arm/CMakeFiles/install/strip.dir

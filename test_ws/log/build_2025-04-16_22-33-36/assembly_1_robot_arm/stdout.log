@@ -1,0 +1,68 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)
+-- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+-- Found Eigen3: TRUE (found version "3.4.0") 
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mo/test_ws/build/assembly_1_robot_arm
+-- Install configuration: ""
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch/gazebo.launch.py
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch/display.launch.py
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf/Assembly 1 (robot arm).csv
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf/assembly_1_robot_arm.urdf
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/END_effector.STL
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/base_link.STL
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_3.STL
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_2.STL
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_1.STL
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_4.STL
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/config
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/config/joint_names_Assembly 1 (robot arm).yaml
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/package_run_dependencies/assembly_1_robot_arm
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/parent_prefix_path/assembly_1_robot_arm
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/ament_prefix_path.sh
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/ament_prefix_path.dsv
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/path.sh
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/path.dsv
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.bash
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.sh
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.zsh
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.dsv
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/package.dsv
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/packages/assembly_1_robot_arm
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/cmake/assembly_1_robot_armConfig.cmake
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/cmake/assembly_1_robot_armConfig-version.cmake
+-- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/package.xml

@@ -1,0 +1,2 @@
+Invoking command in '/home/mo/test_ws/build/robot_gazebo': /usr/bin/cmake /home/mo/test_ws/src/robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/robot_gazebo
+Invoked command in '/home/mo/test_ws/build/robot_gazebo' returned '1': /usr/bin/cmake /home/mo/test_ws/src/robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/robot_gazebo

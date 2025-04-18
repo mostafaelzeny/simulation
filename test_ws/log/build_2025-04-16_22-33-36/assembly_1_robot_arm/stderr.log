@@ -1,0 +1,4 @@
+[33mCMake Warning at CMakeLists.txt:13 (message):
+  joint_state_publisher_gui not found.  Ensure it is installed if needed.
+
+[0m

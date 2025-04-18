@@ -1,0 +1,32 @@
+[0.009s] Invoking command in '/home/mo/test_ws/build/robot_gazebo': /usr/bin/cmake /home/mo/test_ws/src/robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/robot_gazebo
+[0.018s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.102s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.139s] Error parsing '/home/mo/test_ws/src/robot_gazebo/package.xml':
+[0.166s] Traceback (most recent call last):
+[0.166s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[0.166s]     main()
+[0.167s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[0.167s]     raise e
+[0.167s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[0.167s]     package = parse_package_string(
+[0.167s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 788, in parse_package_string
+[0.167s]     pkg.validate(warnings=warnings)
+[0.167s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 330, in validate
+[0.167s]     raise InvalidPackage('\n'.join(errors), self.filename)
+[0.167s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/mo/test_ws/src/robot_gazebo/package.xml':
+[0.167s] Invalid email "mostafaelzeny27@gmailcom" for person "mo"
+[0.175s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.175s]   execute_process(/usr/bin/python3
+[0.175s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.175s]   /home/mo/test_ws/src/robot_gazebo/package.xml
+[0.175s]   /home/mo/test_ws/build/robot_gazebo/ament_cmake_core/package.cmake)
+[0.175s]   returned error code 1
+[0.175s] Call Stack (most recent call first):
+[0.175s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.175s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.175s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.175s] 
+[0.175s] [0m
+[0.175s] -- Configuring incomplete, errors occurred!
+[0.175s] See also "/home/mo/test_ws/build/robot_gazebo/CMakeFiles/CMakeOutput.log".
+[0.177s] Invoked command in '/home/mo/test_ws/build/robot_gazebo' returned '1': /usr/bin/cmake /home/mo/test_ws/src/robot_gazebo -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/robot_gazebo

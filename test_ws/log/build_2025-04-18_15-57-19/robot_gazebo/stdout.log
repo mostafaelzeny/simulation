@@ -1,0 +1,20 @@
+-- Install configuration: ""
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/launch
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/launch/ws_sdf.py
+-- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/sdf
+-- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/sdf/robot.sdf
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/ament_index/resource_index/package_run_dependencies/robot_gazebo
+-- Installing: /home/mo/test_ws/install/robot_gazebo/share/ament_index/resource_index/parent_prefix_path/robot_gazebo
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/path.sh
+-- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/path.dsv
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.bash
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.sh
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.zsh
+-- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.dsv
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/package.dsv
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/ament_index/resource_index/packages/robot_gazebo
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/cmake/robot_gazeboConfig.cmake
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/cmake/robot_gazeboConfig-version.cmake
+-- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/package.xml

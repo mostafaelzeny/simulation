@@ -1,0 +1,24 @@
+[0.008s] Invoking command in '/home/mo/test_ws/build/robot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/mo/test_ws/build/robot_gazebo -- -j16 -l16
+[0.046s] Invoked command in '/home/mo/test_ws/build/robot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/mo/test_ws/build/robot_gazebo -- -j16 -l16
+[0.047s] Invoking command in '/home/mo/test_ws/build/robot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/mo/test_ws/build/robot_gazebo
+[0.053s] -- Install configuration: ""
+[0.053s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/launch
+[0.053s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/launch/ws_sdf.py
+[0.053s] -- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/sdf
+[0.053s] -- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/sdf/robot.sdf
+[0.053s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/ament_index/resource_index/package_run_dependencies/robot_gazebo
+[0.054s] -- Installing: /home/mo/test_ws/install/robot_gazebo/share/ament_index/resource_index/parent_prefix_path/robot_gazebo
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/ament_prefix_path.sh
+[0.054s] -- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/ament_prefix_path.dsv
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/path.sh
+[0.054s] -- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/environment/path.dsv
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.bash
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.sh
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.zsh
+[0.054s] -- Installing: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/local_setup.dsv
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/package.dsv
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/ament_index/resource_index/packages/robot_gazebo
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/cmake/robot_gazeboConfig.cmake
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/cmake/robot_gazeboConfig-version.cmake
+[0.054s] -- Up-to-date: /home/mo/test_ws/install/robot_gazebo/share/robot_gazebo/package.xml
+[0.064s] Invoked command in '/home/mo/test_ws/build/robot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/mo/test_ws/build/robot_gazebo

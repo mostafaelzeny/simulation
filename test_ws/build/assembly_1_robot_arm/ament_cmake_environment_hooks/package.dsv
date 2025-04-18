@@ -1,0 +1,4 @@
+source;share/assembly_1_robot_arm/local_setup.bash
+source;share/assembly_1_robot_arm/local_setup.dsv
+source;share/assembly_1_robot_arm/local_setup.sh
+source;share/assembly_1_robot_arm/local_setup.zsh

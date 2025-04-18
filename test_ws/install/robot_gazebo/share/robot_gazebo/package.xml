@@ -1,0 +1,25 @@
+<package format="3">
+  <name>robot_gazebo</name>
+  <version>1.0.0</version>
+  <description>
+    Gazebo simulation package for the Assembly 1 robot arm. This package contains the necessary files for running the robot in Gazebo.
+  </description>
+
+  <maintainer email="mostafaelzeny27@gmail.com">Mostafa Elzeny</maintainer>
+  <author email="mostafaelzeny27@gmail.com">Mostafa Elzeny</author>
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>rviz2</exec_depend>
+  <exec_depend>joint_state_publisher_gui</exec_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>xacro</exec_depend> <!-- Added if you use xacro files -->
+  <exec_depend>gazebo_ros_control</exec_depend> <!-- Added if you use Gazebo with controllers -->
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+

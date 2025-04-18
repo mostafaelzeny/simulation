@@ -1,0 +1,27 @@
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch/gazebo.launch.py
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch/display.launch.py
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf/Assembly 1 (robot arm).csv
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf/goodversioin.txt
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf/assembly_1_robot_arm.urdf
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/END_effector.STL
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/base_link.STL
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_3.STL
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_2.STL
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_1.STL
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_4.STL
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/config/joint_names_Assembly 1 (robot arm).yaml
+/home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/package_run_dependencies/assembly_1_robot_arm
+/home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/parent_prefix_path/assembly_1_robot_arm
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/ament_prefix_path.sh
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/ament_prefix_path.dsv
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/path.sh
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/path.dsv
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.bash
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.sh
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.zsh
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.dsv
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/package.dsv
+/home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/packages/assembly_1_robot_arm
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/cmake/assembly_1_robot_armConfig.cmake
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/cmake/assembly_1_robot_armConfig-version.cmake
+/home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/package.xml

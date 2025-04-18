@@ -1,0 +1,78 @@
+[0.010s] Invoking command in '/home/mo/test_ws/build/assembly_1_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/mo/test_ws/src/assembly_1_robot_arm -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/assembly_1_robot_arm
+[0.093s] -- The C compiler identification is GNU 11.4.0
+[0.156s] -- The CXX compiler identification is GNU 11.4.0
+[0.163s] -- Detecting C compiler ABI info
+[0.223s] -- Detecting C compiler ABI info - done
+[0.228s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.228s] -- Detecting C compile features
+[0.228s] -- Detecting C compile features - done
+[0.231s] -- Detecting CXX compiler ABI info
+[0.297s] -- Detecting CXX compiler ABI info - done
+[0.301s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.302s] -- Detecting CXX compile features
+[0.302s] -- Detecting CXX compile features - done
+[0.306s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.427s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.545s] -- Found rclpy: 3.3.16 (/opt/ros/humble/share/rclpy/cmake)
+[0.548s] -- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[0.598s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.607s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.619s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.634s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.655s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.717s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.718s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.718s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.779s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.785s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.885s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.908s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.944s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.958s] -- Looking for pthread.h
+[1.025s] -- Looking for pthread.h - found
+[1.025s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.090s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.090s] -- Found Threads: TRUE  
+[1.287s] [33mCMake Warning at CMakeLists.txt:13 (message):
+[1.287s]   joint_state_publisher_gui not found.  Ensure it is installed if needed.
+[1.287s] 
+[1.287s] [0m
+[1.334s] -- Configuring done
+[1.337s] -- Generating done
+[1.339s] -- Build files have been written to: /home/mo/test_ws/build/assembly_1_robot_arm
+[1.346s] Invoked command in '/home/mo/test_ws/build/assembly_1_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/mo/test_ws/src/assembly_1_robot_arm -DCMAKE_INSTALL_PREFIX=/home/mo/test_ws/install/assembly_1_robot_arm
+[1.347s] Invoking command in '/home/mo/test_ws/build/assembly_1_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/mo/test_ws/build/assembly_1_robot_arm -- -j16 -l16
+[1.385s] Invoked command in '/home/mo/test_ws/build/assembly_1_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/mo/test_ws/build/assembly_1_robot_arm -- -j16 -l16
+[1.392s] Invoking command in '/home/mo/test_ws/build/assembly_1_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/mo/test_ws/build/assembly_1_robot_arm
+[1.399s] -- Install configuration: ""
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch/gazebo.launch.py
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/launch/display.launch.py
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf/Assembly 1 (robot arm).csv
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/urdf/assembly_1_robot_arm.urdf
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes
+[1.399s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/END_effector.STL
+[1.401s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/base_link.STL
+[1.401s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_3.STL
+[1.401s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_2.STL
+[1.401s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_1.STL
+[1.401s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/meshes/Link_4.STL
+[1.401s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/config
+[1.401s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/config/joint_names_Assembly 1 (robot arm).yaml
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/package_run_dependencies/assembly_1_robot_arm
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/parent_prefix_path/assembly_1_robot_arm
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/ament_prefix_path.sh
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/ament_prefix_path.dsv
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/path.sh
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/environment/path.dsv
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.bash
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.sh
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.zsh
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/local_setup.dsv
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/package.dsv
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/ament_index/resource_index/packages/assembly_1_robot_arm
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/cmake/assembly_1_robot_armConfig.cmake
+[1.402s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/cmake/assembly_1_robot_armConfig-version.cmake
+[1.403s] -- Installing: /home/mo/test_ws/install/assembly_1_robot_arm/share/assembly_1_robot_arm/package.xml
+[1.404s] Invoked command in '/home/mo/test_ws/build/assembly_1_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mo/ws_moveit2/install/moveit_configs_utils:/home/mo/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/mo/test_ws/build/assembly_1_robot_arm
